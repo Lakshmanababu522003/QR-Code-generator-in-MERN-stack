@@ -1,0 +1,28 @@
+.navbar{
+    background-color: #61DBFB;
+}
+.navbar-brand{
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+}
+
+.nav-item{
+    margin-right: 25px;
+}
+
+.nav-link {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.nav-link{
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nav-link:hover,.navbar-brand:hover{
+    color: white;
+    transform: translate(5px);
+}
